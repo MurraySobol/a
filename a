@@ -1,0 +1,4 @@
+F:\Visual Studio 22\Source\repos\ConsoleApp1>upgrade-assistant analyze F:\Visual Studio 22\Source\repos\ConsoleApp1
+File does not exist: F:\Visual
+Unrecognized command or argument 'Studio'
+Unrecognized command or argument '22\Source\repos\ConsoleApp1'
